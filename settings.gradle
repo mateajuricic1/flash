@@ -1,0 +1,5 @@
+include ':SettingsActivity'
+include ':PulseView'
+include ':Transmitter'
+include ':app'
+rootProject.name = "fles"
